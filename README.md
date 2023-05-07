@@ -1,4 +1,4 @@
-# s2container
+# seasar2
 
 本レポジトリのコードは基本的に[Seasar2徹底入門 SAStruts/S2JDBC 対応](https://amzn.asia/d/iIklmlJ)に基づいています。
 

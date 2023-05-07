@@ -3,7 +3,7 @@ version: '3.8'
 services:
   app:
     image: openjdk:17.0.2
-    container_name: s2container
+    container_name: seasar2
     volumes:
       - ./app:/app
     working_dir: /app
