@@ -6,6 +6,7 @@ This is the unit of execution.
 - /s2container
   - /helloworld
   - /ognl
+  - /aop
 
 
 ## Before execution
@@ -13,3 +14,11 @@ Before execute the program, execute the following command on terminal.
 ```
 $ cp -pr /app/src/main/resources/* /app/target
 ```
+
+## Specific configuration
+### /s2container/aop
+When executing the Main.java, execute it with the following option.
+```
+--add-opens java.base/java.lang=ALL-UNNAMED
+```
+Without the option above, java.lang.reflect.InaccessibleObjectException would occur.
