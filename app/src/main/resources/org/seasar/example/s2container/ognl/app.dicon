@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE components PUBLIC "-//SEASAR//DTD S2Container 2.4//EN" "http://www.seasar.org/dtd/components24.dtd">
+<components>
+    <component
+        name="dateFormatter"
+        class="org.seasar.example.s2container.ognl.DateFormatter"
+        instance="singleton">
+        <property name="format">
+            new java.text.SimpleDateFormat("yyyy/MM/dd")
+        </property>
+    </component>
+</components>
