@@ -19,6 +19,7 @@ Javaのバージョンの関係や環境、学習目的のために、配布さ�
 1. Docker Desktopを起動する。
 2. プロジェクトフォルダをRemote Development拡張機能をインストールしたVSCodeで開く
 3. コマンドパレットから"Reopen in Container"を実行する。
+
 ※実行する際には、/app/README.mdを確認してください。
 
 ## 参考文献
