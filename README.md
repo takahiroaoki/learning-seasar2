@@ -1,6 +1,6 @@
 # seasar2
 
-本レポジトリのコードは基本的に[Seasar2徹底入門 SAStruts/S2JDBC 対応](https://amzn.asia/d/iIklmlJ)に基づいています。
+本レポジトリでは[Seasar2徹底入門 SAStruts/S2JDBC 対応](https://amzn.asia/d/iIklmlJ)を学習する際に書いたコードを管理しています。
 
 Javaのバージョンの関係や環境、学習目的のために、配布されたコードと異なる箇所が複数あります。
 
