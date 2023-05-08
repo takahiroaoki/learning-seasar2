@@ -2,11 +2,13 @@
 Each leaves of the following directry tree have Main.java.
 This is the unit of execution.
 
-/app/src/main/java/org/seasar/example
-- /s2container
-  - /helloworld
-  - /ognl
-  - /aop
+/app/src/main/java/org/seasar/example/
+- s2container/
+  - annotation/
+  - aop/
+  - helloworld/
+  - ognl/
+  
 
 
 ## Before execution
