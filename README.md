@@ -20,7 +20,7 @@ Javaのバージョンの関係や環境、学習目的のために、配布さ�
 2. プロジェクトフォルダをRemote Development拡張機能をインストールしたVSCodeで開く
 3. コマンドパレットから"Reopen in Container"を実行する。
 
-※実行する際には、/app/README.mdを確認してください。
+※実行する際には、[./app/README.md](https://github.com/takahiroaoki/seasar2/blob/main/app/README.md)を確認してください。
 
 ## 参考文献
 - [Seasar2徹底入門 SAStruts/S2JDBC 対応](https://amzn.asia/d/iIklmlJ)
